@@ -1,0 +1,9 @@
+[submodule "bitmap"]
+	path = bitmap
+	url = git@github.com:Aperture-Electronic/CBitmap.git
+[submodule "bmp"]
+	path = bmp
+	url = git@github.com:Aperture-Electronic/CBitmap.git
+[submodule "image"]
+	path = image
+	url = git@github.com:Aperture-Electronic/CImageMatrix.git
